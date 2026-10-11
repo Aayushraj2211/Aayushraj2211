@@ -3,11 +3,11 @@
   # Hey there, I'm Aayush Raj 👋
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Game+Developer+%F0%9F%8E%AE;Tech+Lead+%40+HPL+(VIT+Bhopal)+%F0%9F%9A%80;B.Tech+Student+at+VIT+Bhopal+%F0%9F%8E%93;Crafting+Interactive+Experiences+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=570&lines=Game+Developer+%F0%9F%8E%AE;Video+Editor+%26+Creator+%F0%9F%8E%AC;Tech+Lead+%40+HPL+(VIT+Bhopal)+%F0%9F%9A%80;B.Tech+Student+at+VIT+Bhopal+%F0%9F%8E%93;Crafting+Interactive+Experiences+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Passionate Game Developer & Tech Lead focused on building engaging gameplay systems and interactive experiences.</b>
+    <b>Game Developer, Video Editor & Tech Lead focused on interactive systems and creative visual storytelling.</b>
   </p>
 
   <p align="center">
@@ -35,12 +35,12 @@
 ### 📌 About Me
 
 - 🎓 **Education:** B.Tech Student at **VIT Bhopal**
-- 🕹️ **Domain:** **Game Development** (Mechanics, Physics & Interactive Systems)
+- 🕹️ **Game Development:** Gameplay mechanics, physics, and interactive systems
+- 🎬 **Video Editing:** Post-production, motion graphics & color grading in **Adobe (Premiere Pro, After Effects)** & **DaVinci Resolve**
 - 🚀 **Leadership:** **Tech Lead** at **HPL** (VIT Bhopal)
-- 💼 **Portfolio:** Explore my featured projects & designs at [aayushdidthis.my.canva.site](https://aayushdidthis.my.canva.site/)
+- 💼 **Portfolio:** Explore my featured projects & edits at [aayushdidthis.my.canva.site](https://aayushdidthis.my.canva.site/)
 - 🌐 **Web Development:** Familiar with **HTML5** & **CSS3**
-- 🎯 **Current Focus:** Gameplay engineering, 3D/2D game systems, and performance optimization
-- 💬 **Ask me about:** Game engines, mechanics programming, and college tech initiatives
+- 💬 **Ask me about:** Game engines, video editing workflows, and tech initiatives
 
 ---
 
@@ -49,6 +49,7 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Game Dev & Core** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white) |
+| **Video Editing & Creative** | ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-0E1017?style=flat-square&logo=davinciresolve&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
 | **Web & Design** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
