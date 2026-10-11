@@ -11,6 +11,9 @@
   </p>
 
   <p align="center">
+    <a href="https://aayushdidthis.my.canva.site/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="mailto:aayushraj2218@gmail.com">
       <img src="https://img.shields.io/badge/Email-aayushraj2218%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -34,6 +37,7 @@
 - 🎓 **Education:** B.Tech Student at **VIT Bhopal**
 - 🕹️ **Domain:** **Game Development** (Mechanics, Physics & Interactive Systems)
 - 🚀 **Leadership:** **Tech Lead** at **HPL** (VIT Bhopal)
+- 💼 **Portfolio:** Explore my featured projects & designs at [aayushdidthis.my.canva.site](https://aayushdidthis.my.canva.site/)
 - 🌐 **Web Development:** Familiar with **HTML5** & **CSS3**
 - 🎯 **Current Focus:** Gameplay engineering, 3D/2D game systems, and performance optimization
 - 💬 **Ask me about:** Game engines, mechanics programming, and college tech initiatives
