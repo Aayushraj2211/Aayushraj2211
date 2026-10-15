@@ -37,7 +37,7 @@
 - 🎓 **Education:** B.Tech Student at **VIT Bhopal**
 - 🕹️ **Game Development:** Gameplay mechanics, physics, and interactive systems
 - 🎬 **Video Editing:** Post-production, motion graphics & color grading in **Adobe (Premiere Pro, After Effects)** & **DaVinci Resolve**
-- 🚀 **Leadership:** **Tech Lead** at **HPL** (VIT Bhopal)
+- 🚀 **Leadership:** **Technical Lead** at **HPL** (VIT Bhopal)
 - 💼 **Portfolio:** Explore my featured projects & edits at [aayushdidthis.my.canva.site](https://aayushdidthis.my.canva.site/)
 - 🌐 **Web Development:** Familiar with **HTML5** & **CSS3**
 - 💬 **Ask me about:** Game engines, video editing workflows, and tech initiatives
